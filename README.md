@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Sac008/image-repo/blob/main/image%20(3).png?raw=true)
+![MasterHead](https://github.com/punishermortal/image-repo/blob/main/image%20(3).png?raw=true)
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
