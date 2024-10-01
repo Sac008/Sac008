@@ -1,12 +1,11 @@
-![MasterHead](https://github.com/punishermortal/image-repo/blob/main/image%20(3).png?raw=true)
+![MasterHead](https://github.com/Sac008/image-repo/blob/main/image%20(3).png?raw=true)
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punishermortal&label=Profile%20views&color=0e75b6&style=flat" alt="punishermortal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sac008&label=Profile%20views&color=0e75b6&style=flat" alt="Cadet007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punishermortal" alt="punishermortal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sac008" alt="Cadet007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **TMDC**
 
